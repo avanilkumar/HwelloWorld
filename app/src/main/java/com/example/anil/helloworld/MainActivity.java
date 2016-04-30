@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("HELLO", "onCreate: reached");
         Toast.makeText(this, "hi there!!", Toast.LENGTH_SHORT).show();
+
+        //added comments'
     }
 
     @Override
