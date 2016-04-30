@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("HELLO", "onCreate: reached");
         Toast.makeText(this, "hi there!!", Toast.LENGTH_SHORT).show();
 
-        //added comments'
+        //added comments  again
     }
 
     @Override
